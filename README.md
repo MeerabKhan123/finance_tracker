@@ -3,7 +3,8 @@
 A modern and secure finance tracking web app that helps users efficiently manage their income and expenses through a simple, elegant dashboard.
 This project integrates a C backend for transaction logic with a responsive HTML, CSS, and JavaScript frontend.
 
-## 🌐 Live Demo: https://finance-tracker-yovz.vercel.app/
+## 🌐 Live Demo:
+https://finance-tracker-yovz.vercel.app/
 
 ## 🚀 Features
 
